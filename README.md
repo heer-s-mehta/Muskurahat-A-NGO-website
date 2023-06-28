@@ -1,2 +1,2 @@
 # Muskurahat-A-NGO-website
-made using HTML and CSS
+This NGO Website is a project aimed at creating an online presence for the Muskurahat NGO, a non-governmental organization dedicated to bringing smiles to underprivileged children. The website serves as a platform to showcase the organization's mission, projects, and accomplishments, as well as to encourage users to get involved and support the cause and is made using HTML and CSS
